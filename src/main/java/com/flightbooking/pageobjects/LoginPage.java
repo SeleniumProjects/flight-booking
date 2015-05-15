@@ -8,6 +8,8 @@ public class LoginPage {
 	
 	
 	// To test the chagnes from git hub servers ite
+
+// These are conflicting changes
 	public static WebElement txtUserName(WebDriver driver) {
 		
 		WebElement txtUsername= driver.findElement(By.name("userName"));		
