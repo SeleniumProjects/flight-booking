@@ -7,9 +7,14 @@ import org.openqa.selenium.WebElement;
 public class LoginPage {
 	
 	
+
 	// To test the chagnes from git hub servers ite
 
 // These are conflicting changes
+
+	// To test the chagnes from git hub servers ite.. edited again
+	//pls merge
+
 	public static WebElement txtUserName(WebDriver driver) {
 		
 		WebElement txtUsername= driver.findElement(By.name("userName"));		
